@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../BEnd"
+		},
+		{
+			"path": "../../../Java"
+		},
+		{
+			"path": "../../../Fullstack"
+		},
+		{
+			"path": "../../../html"
+		},
+		{
+			"path": "../../../C program"
+		},
+		{
+			"path": "../../../Clg"
+		},
+		{
+			"path": "../lcr"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lcr"
+	}
+}
